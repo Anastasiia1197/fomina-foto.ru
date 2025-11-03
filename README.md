@@ -1,17 +1,18 @@
-Для сайта https://potolkov163.ru/
+Для сайта https://fomina-foto.ru/ 
 
 Без витрины казино (только папка play ссылку поставить https://freshshop.top/qqjrq7)
 Логотип и фавикон cryptoboss
-ссылка в sitemap.robots https://potolkov163.ru/ 
+ссылка в sitemap.robots https://fomina-foto.ru/ 
 
-https://potolkov163.ru/ <html lang="ru">
-https://potolkov163.ru/ru-ru/ <html lang="ru-RU">
+На страницах
+https://fomina-foto.ru/ <html lang="ru">
+https://fomina-foto.ru/albums/ <html lang="ru-RU">
 
 прописываем хрефланги и канониклы 
-<link rel="alternate" hreflang="ru-RU" href="https://potolkov163.ru/ru-ru/">
-<link rel="alternate" hreflang="ru-US" href="https://potolkov163.ru/">
-<link rel="alternate" hreflang="x-default" href="https://potolkov163.ru/">
-<link rel="canonical" href="https://potolkov163.ru/ru-ru/">
+<link rel="alternate" hreflang="ru-RU" href="https://fomina-foto.ru/albums/">
+<link rel="alternate" hreflang="ru-KZ" href="https://fomina-foto.ru/">
+<link rel="alternate" hreflang="x-default" href="https://fomina-foto.ru/">
+<link rel="canonical" href="https://fomina-foto.ru/albums/">
 
 
 
