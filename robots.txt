@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://zorg-inspiratie-centrum.nl/sitemap.xml
+Sitemap: https://fomina-foto.ru/sitemap.xml
